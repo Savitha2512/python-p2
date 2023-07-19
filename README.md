@@ -66,3 +66,28 @@ Wordcloud was built with the content of the Wikipedia and repeated words.
 
  
 ![image](https://github.com/Savitha2512/python-2/assets/137802187/713ac260-615b-4187-bea7-0c072e1a18b1)
+
+
+WEBSCRAPPING ON Wikipedia:Fundraising_statistics
+
+tables=pd.read_html(url)
+
+This query is to read to the html and save it in tables.
+
+![image](https://github.com/Savitha2512/python-p2/assets/137802187/40081d15-72d6-4611-8e06-1885ac357596)
+
+This query will help to take of the commas from the revenue column
+
+![image](https://github.com/Savitha2512/python-p2/assets/137802187/dc35d376-04c5-4183-8b01-8442dc5da9e4)
+
+This will replace the error and replace it with correct numbers.
+
+SCRAPPING FROM QUOTES TO SCRAPE .COM
+
+Quotes to scrape consists of different books and assosiated authors. In this project i have inspected the quote and retrieved author and books in the same line along with that written the information in a csv file by giving import csv
+
+![image](https://github.com/Savitha2512/python-p2/assets/137802187/4ecfec49-6a73-4487-83fb-3fe646f97c7b)
+
+
+
+
