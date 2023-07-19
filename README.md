@@ -70,6 +70,9 @@ Wordcloud was built with the content of the Wikipedia and repeated words.
 
 WEBSCRAPPING ON Wikipedia:Fundraising_statistics
 
+![image](https://github.com/Savitha2512/python-p2/assets/137802187/0427ea41-2a31-4f80-b282-c5659c98872a)
+
+
 tables=pd.read_html(url)
 
 This query is to read to the html and save it in tables.
